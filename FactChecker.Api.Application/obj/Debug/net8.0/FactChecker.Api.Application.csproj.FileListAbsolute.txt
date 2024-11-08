@@ -1,0 +1,15 @@
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\bin\Debug\net8.0\FactChecker.Api.Application.deps.json
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\bin\Debug\net8.0\FactChecker.Api.Application.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\bin\Debug\net8.0\FactChecker.Api.Application.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\bin\Debug\net8.0\FactChecker.Api.Domain.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\bin\Debug\net8.0\FactChecker.Api.Domain.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.AssemblyInfoInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.AssemblyInfo.cs
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChec.3993E052.Up2Date
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\refint\FactChecker.Api.Application.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\FactChecker.Api.Application.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Application\obj\Debug\net8.0\ref\FactChecker.Api.Application.dll

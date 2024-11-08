@@ -1,0 +1,12 @@
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\bin\Debug\net8.0\FactChecker.Api.Domain.deps.json
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\bin\Debug\net8.0\FactChecker.Api.Domain.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\bin\Debug\net8.0\FactChecker.Api.Domain.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.AssemblyInfo.cs
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\refint\FactChecker.Api.Domain.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\FactChecker.Api.Domain.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Domain\obj\Debug\net8.0\ref\FactChecker.Api.Domain.dll

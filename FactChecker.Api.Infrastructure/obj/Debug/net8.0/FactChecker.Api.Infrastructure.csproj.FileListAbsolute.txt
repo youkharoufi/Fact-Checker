@@ -1,0 +1,17 @@
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Infrastructure.deps.json
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Infrastructure.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Infrastructure.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Application.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Domain.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Application.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\bin\Debug\net8.0\FactChecker.Api.Domain.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.AssemblyInfo.cs
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChec.98492EED.Up2Date
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\refint\FactChecker.Api.Infrastructure.dll
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\FactChecker.Api.Infrastructure.pdb
+C:\Users\youss\Desktop\.Net\Fact-Checker\FactChecker\FactChecker.Api.Infrastructure\obj\Debug\net8.0\ref\FactChecker.Api.Infrastructure.dll

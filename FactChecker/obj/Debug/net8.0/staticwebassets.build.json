@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zizT8KQAurvBdqCYyJ0lL9LmVeQjXP1X2/hr0j1/i48=",
+  "Source": "FactChecker.Api",
+  "BasePath": "_content/FactChecker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
